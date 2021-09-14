@@ -18,6 +18,7 @@ Please feel free to contact me via email - benjaminchacko@outlook.com or connect
 * Parcel Bundler
 * Yarn
 * Babel to use latest ES6 functions
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [React Fragments](https://reactjs.org/docs/fragments.html)
   
 ## How to Use
