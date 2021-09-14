@@ -3,6 +3,4 @@ import App from './app.jsx'
 
 const mountnode = document.querySelector(`#root`)
 
-render(
-    <App />,
-    mountnode);
+render(<App />, mountnode);
